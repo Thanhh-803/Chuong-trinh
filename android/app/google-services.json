@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175942521414",
+    "project_id": "authetication-bt",
+    "storage_bucket": "authetication-bt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175942521414:android:64b818d652a273023c3047",
+        "android_client_info": {
+          "package_name": "com.example.bai_thuc_hanh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9VpliQIX8eEfGNXlzbuHn-qqrm5V2_C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
